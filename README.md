@@ -1,8 +1,14 @@
-# React + Vite
+<div align="center">
+  <h1 align="center">Landing Page Reactjs</h1>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
+![](https://github.com/dilarauluturhan/landingpage-reactjs/assets/120499369/d2bbaa5b-73fe-4ad9-a1e7-e8f714206e27)
+![](https://github.com/dilarauluturhan/landingpage-reactjs/assets/120499369/d5ed5ad3-e569-446e-a70e-99c3758002ac)
 
-Currently, two official plugins are available:
+## Built With
+- **Reactjs**
+- **Tailwind CSS**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contact With
+Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
